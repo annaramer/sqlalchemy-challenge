@@ -4,9 +4,10 @@
 This project involves creating a Flask application to analyze weather data stored in an SQLite database. The database contains two tables: "measurement" and "station". The tasks include performing precipitation analysis, station analysis, and creating API routes to interact with the data.
 
 ## Project Structure:
-- `app.py`: This is the main Flask application file where routes and database interactions are defined.
-- `templates/`: This directory contains HTML templates for rendering web pages.
--
+- climate.ipynb: This is the Jupyter Notebook file where you conduct your analysis or develop your project. It contains code, explanations, visualizations, and results.
+- app.py: This file contains the Flask application code where you define routes and integrate your analysis from the Jupyter Notebook into a web application.
+- templates/: This directory contains HTML templates for rendering web pages in your Flask application.
+
 ## Precipitation Analysis:
 - The precipitation analysis involves querying the database for precipitation data and displaying it in a plot.
 - Ensure the database connection is established, and the necessary SQLAlchemy classes are defined.
