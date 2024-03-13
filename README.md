@@ -32,7 +32,7 @@ Project Structure:
 - The routes will accept parameters and return calculated temperature statistics accordingly.
 
 ## Credits:
-This project was developed by Anna Ramer as part of Rutgers Bootcamp: Module 10 Assignment.
+This project was developed by Anna Ramer as part of Rutgers Data Bootcamp: Module 10 Assignment.
 
 ### Special Thanks:
 I would like to express my gratitude to my Teaching Assistant, James Newman, for his guidance. His assistance was invaluable in the successful completion of this assignment.
